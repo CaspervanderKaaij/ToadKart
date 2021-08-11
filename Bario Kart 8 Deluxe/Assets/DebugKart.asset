@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 07aa10ecf7ffc6f47a51abd1a876096e, type: 3}
+  m_Name: DebugKart
+  m_EditorClassIdentifier: 
+  speed: 79.77
+  steeringSpeed: 0.9943
+  backwardsSpeed: -0.325
+  acceleration1: 0.59
+  acceleration2: 0.59
+  acceleration3: 0.462
+  acceleration4: 0.0662
+  accelerationBase: 39
+  handling: 500
+  handlingRange: 72.67
+  drift: 25
+  driftRange: 117.8775
+  miniTurboDuration: 27
+  offRoadSpeed: 0.4538
+  offRoadHandling: 200
+  traction: 60
+  weight: 4.31
+  sfx_Idle: {fileID: 8300000, guid: 222a19c58ce4e8a4cad0fdac6a328095, type: 3}
+  sfx_EngineLoop: {fileID: 8300000, guid: 3de54c1487057b24aa8070e905c5610e, type: 3}
+  sfx_Horn: {fileID: 8300000, guid: fdd98633d7a48b94ea0c35ff8c288682, type: 3}
+  sfx_DashMini: {fileID: 8300000, guid: 514393bbf5deb93419646fb92a4d6d3e, type: 3}
+  sfx_Dash: {fileID: 8300000, guid: 75f05d18763250c4b9e9e49ae4de235c, type: 3}

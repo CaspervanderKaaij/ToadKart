@@ -1,0 +1,188 @@
+fileFormatVersion: 2
+guid: c46c41e5cf107084aba2d32c2c26f09f
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: n0b5
+    100002: n10b10
+    100004: n11b6
+    100006: n12b4
+    100008: n13b3
+    100010: n14b8
+    100012: n15b7
+    100014: n1b1
+    100016: n2b9
+    100018: n3b11
+    100020: n4b13
+    100022: n5b0
+    100024: n6b2
+    100026: n7b14
+    100028: n8b12
+    100030: n9b15
+    100032: //RootNode
+    400000: n0b5
+    400002: n10b10
+    400004: n11b6
+    400006: n12b4
+    400008: n13b3
+    400010: n14b8
+    400012: n15b7
+    400014: n1b1
+    400016: n2b9
+    400018: n3b11
+    400020: n4b13
+    400022: n5b0
+    400024: n6b2
+    400026: n7b14
+    400028: n8b12
+    400030: n9b15
+    400032: //RootNode
+    2100000: m0
+    2100002: m1
+    2100004: m2
+    2100006: m3
+    2100008: m5
+    2100010: m6
+    2100012: m7
+    2100014: m8
+    2100016: m9
+    2100018: m10
+    2100020: m11
+    2100022: m12
+    2100024: m13
+    2100026: m14
+    2100028: m15
+    2300000: n0b5
+    2300002: n10b10
+    2300004: n11b6
+    2300006: n12b4
+    2300008: n13b3
+    2300010: n14b8
+    2300012: n15b7
+    2300014: n1b1
+    2300016: n2b9
+    2300018: n3b11
+    2300020: n4b13
+    2300022: n5b0
+    2300024: n6b2
+    2300026: n7b14
+    2300028: n8b12
+    2300030: n9b15
+    3300000: n0b5
+    3300002: n10b10
+    3300004: n11b6
+    3300006: n12b4
+    3300008: n13b3
+    3300010: n14b8
+    3300012: n15b7
+    3300014: n1b1
+    3300016: n2b9
+    3300018: n3b11
+    3300020: n4b13
+    3300022: n5b0
+    3300024: n6b2
+    3300026: n7b14
+    3300028: n8b12
+    3300030: n9b15
+    4300000: n0b5
+    4300002: n1b1
+    4300004: n2b9
+    4300006: n3b11
+    4300008: n4b13
+    4300010: n5b0
+    4300012: n6b2
+    4300014: n7b14
+    4300016: n8b12
+    4300018: n9b15
+    4300020: n10b10
+    4300022: n11b6
+    4300024: n12b4
+    4300026: n13b3
+    4300028: n14b8
+    4300030: n15b7
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
